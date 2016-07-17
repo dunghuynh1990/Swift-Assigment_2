@@ -1,9 +1,6 @@
 # Project Name: *Swift-Week 2-Assigment 2:Yelp*
 
-**Flicks** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
-
 Time spent: **15** hours spent in total
-
 
 ## User Stories
 
@@ -31,17 +28,11 @@ The following **optional** features are implemented:
    - [ ] Categories should show a subset of the full list with a "See All" row to expand. Category list is [here](http://www.yelp.com/developers/documentation/category_list).
 - [ ] Implement the restaurant detail page.
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src='https://github.com/dunghuynh1990/Swift-Assigment_2/blob/master/Gif1.gif'/>
 
 ## Setup
 Pods aren't checked in to source control, so please run `pod install` then open `Yelp.xcworkspace` and run in Xcode. Tested Xcode version: 7.3.1
